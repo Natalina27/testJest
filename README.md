@@ -1,2 +1,0 @@
-# testJest
-Created with CodeSandbox
