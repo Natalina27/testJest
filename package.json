@@ -1,5 +1,5 @@
 {
-  "name": "parcel-sandbox",
+  "name": "qa14-jest-urok",
   "version": "1.0.0",
   "description": "Simple Parcel Sandbox",
   "main": "index.html",
@@ -14,5 +14,6 @@
   },
   "devDependencies": {
     "parcel-bundler": "^1.6.1"
-  }
+  },
+  "keywords": []
 }
